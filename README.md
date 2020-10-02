@@ -1,5 +1,8 @@
 # MultiBit Merchant Site
 
+#installtion nd setup link
+https://www.java.com/en/download/
+
 This repository is for the MultiBit Merchant website
 
 * Java
